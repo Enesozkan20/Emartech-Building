@@ -17,3 +17,6 @@ This is a simple **real estate website** project created using **HTML**, **Boots
 - **index.html**: Main HTML file containing Bootstrap classes and real estate content.  
 - **style.css**: A small custom CSS file for additional styling.  
 - **assets/**: Folder containing images, icons, and any media files. 
+
+# Preview
+![11IleriCocuk-Bs-2-GoogleChrome2025-06-2813-31-57-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/3ee36938-717c-4f68-ab16-9958a7439b26)
